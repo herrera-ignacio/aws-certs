@@ -1,5 +1,7 @@
 # AWS Cloud Practicioner (CLF-C01)
 
+![](2022-01-11-21-15-24.png)
+
 > [AWS Certified Cloud Practicioner overview](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 ## Certification Overview
